@@ -65,4 +65,6 @@ A similar pattern was also noticed in case of Mobile Electronics.
 
 * Even though helpful/total votes were way higher but fake votes might have affected, because as noticed, always the average votes of vine reviews are higher. 
 
+* Also, as per Amazon's algorithm, by default, Top rated reviews are shown first and hence, votes have a very high impact on forming opinion based on reviews.
+
 ![](images/8.png)
